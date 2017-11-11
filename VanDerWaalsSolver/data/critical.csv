@@ -1,0 +1,23 @@
+Name,Formula,Tc,Pc,Vc
+Helium,He,5.19,2.27,57
+Neon,Ne,44.4,27.6,42
+Argon,Ar,150.87,48.98,75
+Kripton,Kr,209.41,55,91
+Xenon,Xe,289.73,58.4,118
+Hydrogen,H2,32.97,12.93,65
+Nitrogen,N2,126.2,34,90
+Oxygen,O2,154.59,50.43,73
+Carbon Monoxide,CO,132.91,34.99,93
+Carbon Dioxide,CO2,304.2,73.83,94
+Water,H2O,647.3,220.5,56
+Ammonia,NH3,405.5,113.5,72
+Methane,CH4,190.53,46.04,999
+Ethane,C2H6,305.4,48.84,148
+Propane,C3H8,369.82,42.5,203
+Butane,C4H10,425.14,37.84,255
+Ethylene,C2H4,282.34,50.41,131
+Methanol,CH3OH,512.64,80.92,118
+Ethanol,C2H5OH,513.92,61.32,167
+Acetic Acid,CH3COOH,592.71,57.86,171
+Benzene,C6H6,562.16,48.98,259
+Toluene,C6H5H3,591.79,41.04,316
